@@ -1,0 +1,17 @@
+ 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"
+  width="500px" height="500px">
+  <defs>
+    <filter id="ded">
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+      <feBlend /><feBlend /><feBlend /><feBlend /><feBlend />
+    </filter>
+  </defs>
+  <g>
+      <circle r="1" fill="red" style="filter:url(#ded)"/>
+  </g>
+</svg>
